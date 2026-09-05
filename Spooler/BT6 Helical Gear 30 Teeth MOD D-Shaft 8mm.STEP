@@ -6,8 +6,8 @@ FILE_NAME ('BT6 Helical Gear 30 Teeth MOD D-Shaft 8mm.STEP',
     '2026-09-05T20:56:26',
     ( '' ),
     ( '' ),
-    'SwSTEP 2.0',
-    'SolidWorks 2021',
+    '',
+    '',
     '' );
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
